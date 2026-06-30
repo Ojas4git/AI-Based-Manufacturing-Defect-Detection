@@ -1,8 +1,8 @@
-streamlit
+streamlit==1.45.1
 tensorflow==2.19.0
-numpy==1.26.4
-pandas
-Pillow
-matplotlib
-scikit-learn
-gdown
+numpy==2.1.3
+pandas==2.3.1
+pillow==11.3.0
+matplotlib==3.10.5
+scikit-learn==1.7.1
+gdown==5.2.0
