@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual Environments
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Ignore Dataset
+Dataset/
+
+# Ignore trained model
+*.keras
+*.h5
+
+# VS Code
+.vscode/
+
+# Python cache
+.pytest_cache/
